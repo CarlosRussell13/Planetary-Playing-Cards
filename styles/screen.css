@@ -11,17 +11,14 @@
     --card-hover-color: #10141f;
     --sun-color: #FCE570;
     --mercury-color: #B7B8B9;
-
     --venus-color: #FFC649;
     --earth-color: rgb(54, 133, 54);
     --mars-color: #a82932;
     --jupiter-color: #7a7173;
     --saturn-color: #cf775c;
-
     --uranus-color: #91c5cc;
     --neptune-color: #177496;
 }
-
 
 body {
     font-family: Helvetica, sans-serif;
@@ -36,7 +33,6 @@ h1 {
     letter-spacing: -2px;
     padding-top: 50px;
 }
-
 
 .grid {
     display: grid;
