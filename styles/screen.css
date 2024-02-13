@@ -2,8 +2,8 @@
     --large-planet-size: 250px;
     --small-planet-size: 100px;
     --main-background-color: #1f1f1e;
-    --cell-background-color: lightgray;
-    --cell-hover-color:gray;
+    --cell-background-color: rgb(97, 97, 97);
+    --cell-hover-color:rgb(51, 36, 36);
   --title-color: #000000;
 
     --home-background-color: #ffffff;
@@ -17,7 +17,7 @@
     --mars-color: #a82932;
     --jupiter-color: #7a7173;
     --saturn-color: #cf775c;
-    
+
     --uranus-color: #91c5cc;
     --neptune-color: #177496;
 }
